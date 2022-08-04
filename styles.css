@@ -1,1 +1,41 @@
 /* Write your CSS here! */
+ body{
+  margin: 8px;
+  display: block;
+ }
+ #mainHeading{
+  padding: 10px;
+  color:red;
+ }
+ h1{
+  padding: 10px;
+  color:red;
+}
+.funParagraph{
+  color: green;
+
+}
+
+#testP{
+  color: green;
+}
+div{
+  background-color: lightgrey;
+  width: 600px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+
+  
+}
+footer{
+  background-color:lightgrey;
+  width: 700px;
+  border: 15px solid green;
+  padding: 35px;
+  margin: 10px;
+}
+.author{
+  text-align:left;
+  color: red;
+} 
