@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+ body{
+  margin: 8px;
+  display: block;
+ }
+ #mainHeading{
+  padding: 10px;
+  color:red;
+ }
+.funParagraph{
+  color: green;
+
+}
+#testP{
+  color: green;
+}
+footer{
+  background-color:lightgrey;
+  width: 700px;
+  border: 15px solid green;
+  padding: 35px;
+  margin: 10px;
+}
+figcaption{
+    text-align:left;
+    font-style: italic;
+    color: black;
+}
+ 
